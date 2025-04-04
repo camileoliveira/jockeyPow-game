@@ -6,4 +6,4 @@ Este é um projeto simples feito com **HTML**, **CSS** e **JavaScript** proposto
 
 Veja abaixo uma imagem da tela principal:
 
-![Tela inicial do projeto](assets/img/print-home.png)
+![Tela inicial do projeto](./menu-projeto/assets/img/print-home.png)
